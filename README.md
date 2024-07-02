@@ -10,7 +10,7 @@
 
 [Neuromatch Computational Neuroscience Academy (in progress)](https://compneuro.neuromatch.io/tutorials/intro.html)
 
-[Code](/neuromatch)
+- [Code](/neuromatch)
 
 
 
