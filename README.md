@@ -8,7 +8,9 @@
 4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/TVD3SBAQKHWX)
 5. [Sequence Models](https://www.coursera.org/account/accomplishments/certificate/6WTQN8GQJ8P3)
 
-[Neuromatch Computational Neuroscience Academy (in progress)](/neuromatch)
+[Neuromatch Computational Neuroscience Academy (in progress)](https://compneuro.neuromatch.io/tutorials/intro.html)
+
+[Code](/neuromatch)
 
 
 
